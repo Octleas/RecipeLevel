@@ -40,8 +40,9 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-2. Frontend (React) のセットアップ
-   **ターミナル B**で実行:
+### 2. Frontend (React) のセットアップ
+
+**ターミナル B**で実行:
 
 ```Bash
 
